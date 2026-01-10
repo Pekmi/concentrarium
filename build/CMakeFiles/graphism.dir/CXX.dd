@@ -3,3 +3,5 @@ build CMakeFiles\graphism.dir\src\graphism\basevoxel.cpp.obj: dyndep
 
 build CMakeFiles\graphism.dir\src\graphism\Window.cpp.obj: dyndep
 
+build CMakeFiles\graphism.dir\src\graphism\Shader.cpp.obj: dyndep
+

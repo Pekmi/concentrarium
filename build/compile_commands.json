@@ -19,6 +19,12 @@
 },
 {
   "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glad\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glm /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @CMakeFiles\\graphism.dir\\src\\graphism\\Shader.cpp.obj.modmap /FoCMakeFiles\\graphism.dir\\src\\graphism\\Shader.cpp.obj /FdCMakeFiles\\graphism.dir\\ /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\src\\graphism\\Shader.cpp",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/src/graphism/Shader.cpp",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/graphism.dir/src/graphism/Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
   "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\context.c",
   "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/context.c",
   "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/context.c.obj"

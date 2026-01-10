@@ -21,6 +21,7 @@ target_include_directories(glm INTERFACE vendor/glm)
 add_executable(graphism 
     src/graphism/basevoxel.cpp 
     src/graphism/Window.cpp
+    src/graphism/Shader.cpp
 )
 
 target_link_libraries(graphism 
@@ -29,3 +30,6 @@ target_link_libraries(graphism
     glad 
     glm
 )
+
+# Automatically copy the 'shaders' folder to the build directory
+file(COPY ${CMAKE_SOURCE_DIR}/src/shaders DESTINATION ${CMAKE_BINARY_DIR})

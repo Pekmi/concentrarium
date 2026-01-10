@@ -23,6 +23,11 @@
 	"module-dir" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/graphism.dir",
 	"sources" : 
 	{
+		"CMakeFiles/graphism.dir/src/graphism/Shader.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/src/graphism/Shader.cpp"
+		},
 		"CMakeFiles/graphism.dir/src/graphism/Window.cpp.obj" : 
 		{
 			"language" : "CXX",

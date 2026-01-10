@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\graphism.dir\\src\\graphism\\Shader.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vc140.pdb",
+                "CMakeFiles\\graphism.dir\\src\\graphism\\Shader.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
