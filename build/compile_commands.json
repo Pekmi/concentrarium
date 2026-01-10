@@ -1,0 +1,146 @@
+[
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glad\\include /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /FoCMakeFiles\\glad.dir\\vendor\\glad\\src\\glad.c.obj /FdCMakeFiles\\glad.dir\\glad.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glad\\src\\glad.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glad/src/glad.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/glad.dir/vendor/glad/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glad\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glm /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @CMakeFiles\\graphism.dir\\src\\graphism\\basevoxel.cpp.obj.modmap /FoCMakeFiles\\graphism.dir\\src\\graphism\\basevoxel.cpp.obj /FdCMakeFiles\\graphism.dir\\ /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\src\\graphism\\basevoxel.cpp",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/src/graphism/basevoxel.cpp",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/graphism.dir/src/graphism/basevoxel.cpp.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glad\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glm /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @CMakeFiles\\graphism.dir\\src\\graphism\\Window.cpp.obj.modmap /FoCMakeFiles\\graphism.dir\\src\\graphism\\Window.cpp.obj /FdCMakeFiles\\graphism.dir\\ /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\src\\graphism\\Window.cpp",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/src/graphism/Window.cpp",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/graphism.dir/src/graphism/Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\context.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/context.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/context.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\init.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/init.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/init.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\input.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/input.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/input.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\monitor.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/monitor.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\platform.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/platform.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/platform.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/vulkan.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\window.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/window.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/window.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/egl_context.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/osmesa_context.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\null_init.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/null_init.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\null_monitor.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/null_monitor.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\null_window.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/null_window.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\null_joystick.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/null_joystick.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\win32_module.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/win32_module.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/win32_time.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/win32_thread.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/win32_init.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/win32_joystick.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/win32_monitor.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/win32_window.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj"
+},
+{
+  "directory": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\Insiders\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src -IC:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vendor\\glfw\\src /DWIN32 /D_WINDOWS /Ob0 /Od -MDd -RTC1 -Zi /W3 /Fovendor\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /Fdvendor\\glfw\\src\\CMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/src/wgl_context.c",
+  "output": "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj"
+}
+]

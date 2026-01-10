@@ -1,7 +1,9 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/ignlu/Documents/Concentrarium/Git Clone/concentrarium/build/cmake_install.cmake"
+		"C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/cmake_install.cmake",
+		"C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/cmake_install.cmake",
+		"C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

@@ -18,7 +18,10 @@ target_include_directories(glad PUBLIC vendor/glad/include)
 add_library(glm INTERFACE)
 target_include_directories(glm INTERFACE vendor/glm)
 
-add_executable(graphism src/graphism/basevoxel.cpp)
+add_executable(graphism 
+    src/graphism/basevoxel.cpp 
+    src/graphism/Window.cpp
+)
 
 target_link_libraries(graphism 
     PRIVATE 

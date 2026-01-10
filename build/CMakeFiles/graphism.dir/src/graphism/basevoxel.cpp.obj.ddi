@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\graphism.dir\\src\\graphism\\basevoxel.cpp.obj",
+            "outputs": [
+                "C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\build\\vc140.pdb",
+                "CMakeFiles\\graphism.dir\\src\\graphism\\basevoxel.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

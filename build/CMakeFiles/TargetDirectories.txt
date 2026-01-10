@@ -1,3 +1,10 @@
-C:/Users/ignlu/Documents/Concentrarium/Git Clone/concentrarium/build/CMakeFiles/graphism.dir
-C:/Users/ignlu/Documents/Concentrarium/Git Clone/concentrarium/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/ignlu/Documents/Concentrarium/Git Clone/concentrarium/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/glad.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/graphism.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/edit_cache.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/rebuild_cache.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/CMakeFiles/edit_cache.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/glfw.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/edit_cache.dir
+C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/vendor/glfw/src/CMakeFiles/rebuild_cache.dir

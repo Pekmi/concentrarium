@@ -1,0 +1,37 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+	"dir-cur-src" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium",
+	"dir-top-bld" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build",
+	"dir-top-src" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glfw\\include",
+		"C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glad\\include",
+		"C:\\Users\\ignlu\\Documents\\Concentrarium\\concentrarium\\vendor\\glm"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/build/CMakeFiles/graphism.dir",
+	"sources" : 
+	{
+		"CMakeFiles/graphism.dir/src/graphism/Window.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/src/graphism/Window.cpp"
+		},
+		"CMakeFiles/graphism.dir/src/graphism/basevoxel.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/src/graphism/basevoxel.cpp"
+		}
+	}
+}
