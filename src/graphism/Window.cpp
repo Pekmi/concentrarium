@@ -49,3 +49,15 @@ void Window::update() {
     glfwSwapBuffers(window); // Show the new frame
     glfwPollEvents();        // Check for mouse/keyboard input
 }
+
+int Window::getWidth() {
+    int width, height;
+    glfwGetFramebufferSize(window, &width, &height);
+    return width;
+}
+
+int Window::getHeight() {
+    int width, height;
+    glfwGetFramebufferSize(window, &width, &height);
+    return height;
+}

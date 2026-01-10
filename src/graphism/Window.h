@@ -18,6 +18,9 @@ public:
     // Swaps buffers (updates the screen) and checks for clicks
     void update();
 
+    int getWidth();
+    int getHeight();
+
 private:
     GLFWwindow* window; // A pointer to the raw window structure
 };
