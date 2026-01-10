@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "graphism.dir\\Debug\\basevoxel.obj",
+            "outputs": [
+                "C:\\Users\\ignlu\\Documents\\Concentrarium\\Git Clone\\concentrarium\\build\\graphism.dir\\Debug\\vc145.pdb",
+                "graphism.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+^C:\USERS\IGNLU\DOCUMENTS\CONCENTRARIUM\GIT CLONE\CONCENTRARIUM\BUILD\CMAKEFILES\ADF3AFB113CF7DB3E80D86AA0EF778D1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/ignlu/Documents/Concentrarium/Git Clone/concentrarium" "-BC:/Users/ignlu/Documents/Concentrarium/Git Clone/concentrarium/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ignlu/Documents/Concentrarium/Git Clone/concentrarium/build/concentrarium.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

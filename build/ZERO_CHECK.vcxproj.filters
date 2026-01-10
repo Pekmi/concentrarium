@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ignlu\Documents\Concentrarium\Git Clone\concentrarium\build\CMakeFiles\adf3afb113cf7db3e80d86aa0ef778d1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F1AF6C10-374B-3752-80C3-795EE8E7A6DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
