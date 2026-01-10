@@ -14,7 +14,8 @@
 		"commands" : 
 		[
 			"add_executable",
-			"target_link_libraries"
+			"target_link_libraries",
+			"target_include_directories"
 		],
 		"files" : 
 		[
@@ -35,6 +36,12 @@
 				"command" : 1,
 				"file" : 0,
 				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 34,
 				"parent" : 0
 			}
 		]
@@ -71,6 +78,10 @@
 			"includes" : 
 			[
 				{
+					"backtrace" : 3,
+					"path" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/stb_image"
+				},
+				{
 					"backtrace" : 2,
 					"path" : "C:/Users/ignlu/Documents/Concentrarium/concentrarium/vendor/glfw/include"
 				},
@@ -104,11 +115,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@31bd9730e6b8c71cc656"
+			"id" : "glad::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "glad::@6890427a1f51a3e7e1df"
+			"id" : "glfw::@31bd9730e6b8c71cc656"
 		}
 	],
 	"id" : "graphism::@6890427a1f51a3e7e1df",

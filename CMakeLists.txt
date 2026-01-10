@@ -31,5 +31,9 @@ target_link_libraries(graphism
     glm
 )
 
+target_include_directories(graphism PRIVATE vendor/stb_image)
+
 # Automatically copy the 'shaders' folder to the build directory
 file(COPY ${CMAKE_SOURCE_DIR}/src/shaders DESTINATION ${CMAKE_BINARY_DIR})
+
+file(COPY ${CMAKE_SOURCE_DIR}/src/textures DESTINATION ${CMAKE_BINARY_DIR})
