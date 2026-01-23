@@ -3,4 +3,4 @@ project(concentrarium)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(concentrarium main.cpp)
+add_executable(test ./src/log.cpp)

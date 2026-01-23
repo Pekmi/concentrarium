@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\test.dir\\src\\log.cpp.obj",
+            "outputs": [
+                "C:\\Users\\loren\\Desktop\\concentrarium\\build\\vc140.pdb",
+                "CMakeFiles\\test.dir\\src\\log.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

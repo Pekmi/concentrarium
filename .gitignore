@@ -1,3 +1,10 @@
+# IDE settings
+.vscode/
+
+# Build directories
+.build/
+.cache/ 
+
 # Prerequisites
 *.d
 

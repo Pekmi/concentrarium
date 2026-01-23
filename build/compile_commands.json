@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/loren/Desktop/concentrarium/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @CMakeFiles\\test.dir\\src\\log.cpp.obj.modmap /FoCMakeFiles\\test.dir\\src\\log.cpp.obj /FdCMakeFiles\\test.dir\\ /FS -c C:\\Users\\loren\\Desktop\\concentrarium\\src\\log.cpp",
+  "file": "C:/Users/loren/Desktop/concentrarium/src/log.cpp",
+  "output": "C:/Users/loren/Desktop/concentrarium/build/CMakeFiles/test.dir/src/log.cpp.obj"
+}
+]

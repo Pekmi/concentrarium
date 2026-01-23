@@ -1,0 +1,7 @@
+# ninja log v6
+7	164	7908806309925499	CMakeFiles/test.dir/src/log.cpp.obj.ddi	9b2e741d27579eeb
+167	245	7908806312196162	CMakeFiles/test.dir/CXX.dd	fb2e4e6c5419f7cd
+167	245	7908806312196162	CMakeFiles/test.dir/CXXModules.json	fb2e4e6c5419f7cd
+167	245	7908806312196162	CMakeFiles/test.dir/src/log.cpp.obj.modmap	fb2e4e6c5419f7cd
+258	1080	7908806312440817	CMakeFiles/test.dir/src/log.cpp.obj	bda7317007e64a8e
+1081	1431	7908806320663078	test.exe	9b8db7c6c20eb41e
